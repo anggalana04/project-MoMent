@@ -1,0 +1,25 @@
+[
+    {
+        "ID": 0,
+        "NAMA": "",
+        "NAMA_PERUSAHAAN": "",
+        "SALDO_KAS": 0,
+        "SALDO_BANK": 0
+    },
+    {
+        "ID": "user",
+        "PW": "123",
+        "NAMA": "Putra Anggara Maulana",
+        "NAMA_PERUSAHAAN": "Xchi Corp",
+        "SALDO_KAS": 188000,
+        "SALDO_BANK": 80095000
+    },
+    {
+        "ID": "userbaru",
+        "PW": "123",
+        "NAMA": "",
+        "NAMA_PERUSAHAAN": "",
+        "SALDO_KAS": 0,
+        "SALDO_BANK": 0
+    }
+]

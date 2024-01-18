@@ -1,0 +1,160 @@
+{
+  "user": [
+    {
+      "NOMOR": [
+        "KAS/1",
+        1
+      ],
+      "KATEGORI": "PENDAPATAN",
+      "JUMLAH": 9100000,
+      "WAKTU": "2023/12/21 23:28",
+      "TIPE_AKUN": "KAS",
+      "DETAIL": "PENJUALAN",
+      "UNTUK": null,
+      "DARI": "Pt Jasa Raharja"
+    },
+    {
+      "NOMOR": [
+        "KAS/2",
+        2
+      ],
+      "KATEGORI": "PENDAPATAN",
+      "JUMLAH": 199000,
+      "WAKTU": "2023/12/21 23:29",
+      "TIPE_AKUN": "KAS",
+      "DETAIL": "PENJUALAN",
+      "UNTUK": null,
+      "DARI": "Pa Hajan"
+    },
+    {
+      "NOMOR": [
+        "KAS/3",
+        3
+      ],
+      "KATEGORI": "PENDAPATAN",
+      "JUMLAH": 199000,
+      "WAKTU": "2023/12/22 05:38",
+      "TIPE_AKUN": "KAS",
+      "DETAIL": "PENJUALAN",
+      "UNTUK": null,
+      "DARI": "CV Adi Wiyata"
+    },
+    {
+      "NOMOR": [
+        "KAS/4",
+        4
+      ],
+      "KATEGORI": "PENGELUARAN",
+      "JUMLAH": 100000,
+      "WAKTU": "2023/12/22 05:39",
+      "TIPE_AKUN": "KAS",
+      "DETAIL": "OPERASIONAL",
+      "UNTUK": "PT. Jasa Raharja",
+      "DARI": null
+    },
+    {
+      "NOMOR": [
+        "BANK/1",
+        1
+      ],
+      "KATEGORI": "PENDAPATAN",
+      "JUMLAH": 89000000,
+      "WAKTU": "2023/12/22 05:42",
+      "TIPE_AKUN": "BANK",
+      "DETAIL": "HUTANG",
+      "UNTUK": null,
+      "DARI": "CV Albani bani"
+    },
+    {
+      "NOMOR": [
+        "BANK/2",
+        2
+      ],
+      "KATEGORI": "PENDAPATAN",
+      "JUMLAH": 189000,
+      "WAKTU": "2023/12/22 05:42",
+      "TIPE_AKUN": "BANK",
+      "DETAIL": "GAJI",
+      "UNTUK": null,
+      "DARI": "PT. UBSI"
+    },
+    {
+      "NOMOR": [
+        "KAS/3",
+        3
+      ],
+      "KATEGORI": "PENGELUARAN",
+      "JUMLAH": 999000,
+      "WAKTU": "2023/12/22 05:43",
+      "TIPE_AKUN": "KAS",
+      "DETAIL": "MODAL",
+      "UNTUK": "CV PUTRA SARAH",
+      "DARI": null
+    },
+    {
+      "NOMOR": [
+        "KAS/4",
+        4
+      ],
+      "KATEGORI": "PENDAPATAN",
+      "JUMLAH": 789000,
+      "WAKTU": "2023/12/22 05:44",
+      "TIPE_AKUN": "KAS",
+      "DETAIL": "PENJUALAN",
+      "UNTUK": null,
+      "DARI": "PT. HAJAR TERUS"
+    },
+    {
+      "NOMOR": [
+        "BANK/1",
+        1
+      ],
+      "KATEGORI": "PENGELUARAN",
+      "JUMLAH": 298000,
+      "WAKTU": "2023/12/22 05:46",
+      "TIPE_AKUN": "BANK",
+      "DETAIL": "OPERASIONAL",
+      "UNTUK": "Cv. Jahaman",
+      "DARI": null
+    },
+    {
+      "NOMOR": [
+        "BANK/2",
+        2
+      ],
+      "KATEGORI": "PENGELUARAN",
+      "JUMLAH": 10000000,
+      "WAKTU": "2023/12/22 05:48",
+      "TIPE_AKUN": "BANK",
+      "DETAIL": "FRANCHISE",
+      "UNTUK": "PT. GOOD QUALITY ",
+      "DARI": null
+    },
+    {
+      "NOMOR": [
+        "BANK/3",
+        3
+      ],
+      "KATEGORI": "PENDAPATAN",
+      "JUMLAH": 314000,
+      "WAKTU": "2023/12/22 05:48",
+      "TIPE_AKUN": "BANK",
+      "DETAIL": "PENJUALAN",
+      "UNTUK": null,
+      "DARI": "PT Teratai bawah"
+    },
+    {
+      "NOMOR": [
+        "BANK/4",
+        4
+      ],
+      "KATEGORI": "PENDAPATAN",
+      "JUMLAH": 890000,
+      "WAKTU": "2023/12/22 05:49",
+      "TIPE_AKUN": "BANK",
+      "DETAIL": "PENJUALAN",
+      "UNTUK": null,
+      "DARI": "PT. HAJAN"
+    }
+  ]
+}
